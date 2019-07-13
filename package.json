@@ -8,10 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "gh-pages -d dist"
+    "deploy": "ng build --base-href=/cv-site/ && gh-pages -d dist/cv-site"
   },
   "private": true,
-  "homepage": "https://conocoy.github.io/cocohuissoon",
   "dependencies": {
     "@angular/animations": "~8.1.1",
     "@angular/common": "~8.1.1",
