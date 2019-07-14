@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<h1>Coco Huissoon</h1>\n<div>Waarom zie ik dit nog niet?????</div>\n<div>Nu wel!</div>\n<router-outlet></router-outlet>\n"
+module.exports = "<h1>Coco Huissoon</h1>\n<div>Waarom zie ik dit nog niet?????</div>\n<div>Nu wel!</div>\n<div>Naam veranderen heeft pages niet gesloopt</div>\n<router-outlet></router-outlet>\nco\n"
 
 /***/ }),
 
@@ -71,7 +71,7 @@ AppRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJ9 */"
+module.exports = "h1, div {\n  font-family: \"DejaVu Sans Mono\";\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQzpcXFVzZXJzXFxHZWJydWlrZXJcXGdpdHByb2plY3RzXFxjdi1zaXRlL3NyY1xcYXBwXFxhcHAuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLCtCQUFBO0FDQ0YiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJoMSAsIGRpdntcclxuICBmb250LWZhbWlseTogXCJEZWphVnUgU2FucyBNb25vXCI7XHJcbn1cclxuIiwiaDEsIGRpdiB7XG4gIGZvbnQtZmFtaWx5OiBcIkRlamFWdSBTYW5zIE1vbm9cIjtcbn0iXX0= */"
 
 /***/ }),
 
